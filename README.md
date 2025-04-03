@@ -5,6 +5,8 @@ LEO - Virtual Assistant :
 
 ![LEO Interface](https://i.imgur.com/giphy.gif)  
 *A browser-based AI assistant with cyberpunk aesthetics*
+![image](https://github.com/user-attachments/assets/eab3f096-7c95-4a45-a6c0-a1fcc9a43c6b)
+
 
 ## 🌟 Features
 - **Voice Commands**: "Open camera", "What time is it?"
